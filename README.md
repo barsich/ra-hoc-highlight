@@ -1,1 +1,2 @@
-# ra-hoc-highlight
+# ra-hoc-highlight [![Build status](https://ci.appveyor.com/api/projects/status/qgqvleex3fnfwtpt?svg=true)](https://ci.appveyor.com/project/barsich/ra-hoc-highlight)
+[GithubPages](https://barsich.github.io/ra-hoc-highlight/)

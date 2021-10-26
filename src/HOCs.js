@@ -10,12 +10,14 @@ export default function withPopularity(Component) {
           <Component {...props} />
         </New>
       );
-    } else {
+    } else if (views > 1000) {
       return (
         <Popular>
           <Component {...props} />
         </Popular>
       );
+    } else {
+      return <Component {...props} />;
     }
   };
 }
